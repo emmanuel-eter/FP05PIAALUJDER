@@ -1,2 +1,2 @@
 # FP05PIAALUJDER
-Repositorio de practica 1
+Repositorio practica 1
